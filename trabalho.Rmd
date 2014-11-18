@@ -1,0 +1,13 @@
+---
+title: "Trabalho"
+author: "vc"
+date: "Tuesday, November 18, 2014"
+output: html_document
+---
+
+# How did I do this?
+### I don't know, but I'll explain
+
+
+
+[Check out my Github page here](https://github.com/ViniciusAQM)
