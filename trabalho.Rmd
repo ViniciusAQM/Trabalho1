@@ -8,6 +8,17 @@ output: html_document
 # How did I do this?
 ### I don't know, but I'll explain
 
+1. Create new project 
+1. Version Control w/ cloned repository URL
+1. File -> New File -> R Markdown
+1. Write the code w/ hint's help 
+1. Push
+1. Commit
+1. 
+![Started+from+the+bottom+started+from+the+bottom_976e87_5062122](http://static.fjcdn.com/pictures/Started+from+the+bottom+started+from+the+bottom_976e87_5062122.jpg)
+
+**_Thanks for reading!_**
+:D
 
 
 [Check out my Github page here](https://github.com/ViniciusAQM)
